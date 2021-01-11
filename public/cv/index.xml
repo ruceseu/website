@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RUMBO PROFESIONAL on QUIERO SABER QUÉ SIGUE DESPUÉS, SIEMPRE</title>
-    <link>https://rubotmx.netlify.app/about/</link>
+    <link>https://rubotmx.netlify.app/cv/</link>
     <description>Recent content in RUMBO PROFESIONAL on QUIERO SABER QUÉ SIGUE DESPUÉS, SIEMPRE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://rubotmx.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate><atom:link href="https://rubotmx.netlify.app/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
