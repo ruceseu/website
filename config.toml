@@ -1,0 +1,60 @@
+baseurl = "https://rubotmx.netlify.app/"
+title = "QUIERO SABER QUÉ SIGUE DESPUÉS, SIEMPRE"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Un blog de ru, no de un bot."
+  copyright = "&copy;2016 Your name or company"
+  sidebarAbout = [
+    "Me dicen Luces. Soy Internacionalista y me apasiona la tecnología, la moda sustentable y compartir con las demás."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "INICIO"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "¿RU NO ES BOT?"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "¡¡¡¡CONECTÉMOS!!!!"
+  url = "contact/"
+
+  [params.social]
+  email         = "luucesgz08@gmail.com"
+  twitter       = "https://twitter.com/ruucesge"
+  linkedin      = "https://www.linkedin.com/in/luzelenagez/"
+  whatsapp      = "https://wa.me/523118473586"
