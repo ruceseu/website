@@ -48,6 +48,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "¿RU NO ES BOT?"
   url = "about/"
+  
+  [[params.navlinks]]
+  name = "CURRÍCULUM"
+  url = "cv/"
 
   [[params.navlinks]]
   name = "¡¡¡¡CONECTÉMOS!!!!"
