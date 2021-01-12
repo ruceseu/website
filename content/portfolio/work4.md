@@ -7,3 +7,5 @@ title: Systems thinking for a turbulent world
 weight: 4
 ---
 
+Estas notas se publicarán el 18 de Febrero de 2021
+
