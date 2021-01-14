@@ -1,6 +1,6 @@
 ---
 date: "2016-11-05T19:53:42+05:30"
-draft: false
+draft: true
 image: "img/portfolio/5.jpg"
 showonlyimage: false
 title: Automating Inequality - Notas sobre el libro
