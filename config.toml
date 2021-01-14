@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Un blog de ru, no de un bot."
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2021 Luz Elena González"
   sidebarAbout = [
     "Me dicen Luuces. Soy Internacionalista y me apasiona la tecnología, la moda sustentable y compartir con las demás."
   ]
