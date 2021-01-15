@@ -19,7 +19,7 @@ La Dra. Mónica Armas [@MonicaArmasZ](https://twitter.com/monicaarmasz), el Ing.
 ## UN GRAN EJEMPLO DE MUJERES EN LOS DATOS.
 
 El evento Health Data Week fue organizado por  **Women in Data y Health Data Science Program**. Como tal, en el primer panel no faltó una mujer con una preparación para levantar mil eventos.
-
+bui
 ##### Una probadita de lo preparada que está la Dra Mónica:
 - Médico Cirujano
 - Diplomado en Políticas Públicas relacionadas a Salud/ Salud Internacional
