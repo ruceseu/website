@@ -2,7 +2,7 @@
 date: "2016-11-05T19:41:01+05:30"
 draft: false
 image: img/portfolio/PITPL.png
-showonlyimage: false
+showonlyimage: true
 title: Arranca PIT Policy Lab, habilitando futuros posibles
 weight: 1
 ---
