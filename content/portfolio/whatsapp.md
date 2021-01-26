@@ -7,7 +7,7 @@ title: La imaginación ética de Whatsapp
 weight: 4
 ---
 
-Un día mi mamá me pregunto, con cara de preocupación y confusión, **de qué iban los nuevos términos de Whatsapp**. Seguro le asustó el tono distópico con el que mucha gente estaba hablando de la actualización, en contrste a la confianza con la que usamos la app.
+Un día mi mamá me pregunto, con cara de preocupación y confusión, **de qué iban los nuevos términos de Whatsapp**. Seguro le asustó el tono distópico con el que mucha gente estaba hablando de la actualización, en contraste a la confianza con la que usamos la app.
 
 ##### Ya casi es un mes que los nuevos términos y condiciones empezaron a aparecer en las pantallas, y la respuesta a este cambio ha sido única. 
 
