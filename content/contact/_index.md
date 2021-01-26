@@ -9,7 +9,7 @@ Agosto 2020 - Diciembre 2020 Jal, Mexico.
 
 ![IMEPLAN](/contact/_index_files/Imeplan_LOGO.jpg)
 
-> - Cp-diseñé un proyecto de potencialización de capacidades internacionales de los municipios con 3 etapas de crecimiento y 16 subtemas; reflejados en un repositorio de contenidos didácticos multimedia.
+> - Co-diseñé un proyecto de potencialización de capacidades internacionales de los municipios con 3 etapas de crecimiento y 16 subtemas; reflejados en un repositorio de contenidos didácticos multimedia.
 
 > - Co-planeé la primera etapa de un Índice de Internacionalización del AMG, aplicando metodologías de Teoría de Cambio, Círculo Dorado, Mapeo de Actores y Análisis de riesgo; en un taller que cimentó la ruta crítica del proyecto, y sus objetivos.
 
