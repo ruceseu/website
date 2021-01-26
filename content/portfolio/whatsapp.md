@@ -7,19 +7,18 @@ title: La imaginación ética de Whatsapp
 weight: 4
 ---
 
-Un día mi mamá me pregunto, con cara de preocupación y confusión, **de qué iban los nuevos términos de Whatsapp**,
-porque escuchaba a todo mundo hablar de eso.
+Un día mi mamá me pregunto, con cara de preocupación y confusión, **de qué iban los nuevos términos de Whatsapp**. Seguro le asustó el tono distópico con el que mucha gente estaba hablando de la actualización, con respecto a la confianza con la que usabamos la aplicación.
 
-##### Ya casi es un mes que los nuevos términos y condiciones empezaron a aparecer en las pantallas de las personas, y la respuesta a este cambio ha sido única. 
+##### Ya casi es un mes que los nuevos términos y condiciones empezaron a aparecer en las pantallas, y la respuesta a este cambio ha sido única. 
 
 Creo que es la primera vez que escucho a mi mamá preocuparse por lo que sea que pase ***(en algun lugar y bajo condiciones también desconocidas) con sus datos***. 
 >##### Primero, por que no está segura del todo a qué se refiere con *los datos*; 
 > ##### luego, porque tampoco conoce mucho de la manera en que estos se mueven, al fin y al cabo, no los ve;
-> ##### finalmente, porque al descargar la aplicación no pensó que podría existir una controversia sobre la privacidad de su información. 
+> ##### finalmente, porque al descargar la aplicación, no pensó que podría existir una controversia sobre la privacidad de su información. 
 
-Mis papás, sus tías, mis amigas y las demás estamos en situaciones similares. **En realidad, saber qué pasa con la información que proporcionamos no es una platica sencilita, amena, dominguera.** El problema central de que utilicemos los datos como moneda para acceder a servicios, es que quien nos los proporciona no es claro en la manera que utiliza la información que sabe de nosotras. 
+Mis papás, sus tías, mis amigas y las demás, estamos en situaciones similares. **En realidad, saber qué pasa con la información que proporcionamos no es una platica sencilita, amena, dominguera.** El problema central de que utilicemos nuestros datos como moneda para acceder a servicios, es que quien nos los proporciona no es claro en la manera que utiliza la información que sabe de nosotras. 
 
-**Si existe una utópia donde la economía de la información está al centro**, tendrá que ser un escenario donde tengamos conocimiento de las consecuencias de las transacciones que hacemos, con la información que nuestros dispositivos manejan (¡ya ni siquiera nuestra información, tenemos información de amigos y de amigos de amigos!). 
+**Si existe una utópia donde la economía de la información está al centro**, tendrá que ser un escenario donde tengamos conocimiento de las consecuencias de nuestras transacciones, con la información que nuestros dispositivos manejan (ya ni siquiera nuestra, ¡tenemos información de amigos y de amigos de amigos!). 
 
 ### ¡Pues vayanse a telegram!
 
@@ -27,16 +26,16 @@ Por favor, ya no griten que si a las personas no les parecen apropiadas las pol�
 
 Servicios como Whatsapp son centrales a la vida diaria de muchas personas, y borrar la aplicación para buscar otra, donde probablemente no se encuentren todos sus contactos, es una solución que no aporta más a la mesa. En cambio, 
 
-##### **si cuestionamos las posibiles soluciones nos acercamos a reconocer la distribución ética del plano digital.**
+##### **si cuestionamos las posibiles soluciones, y avanzamos a una resolución informada, nos acercamos a reconocer la distribución ética del plano digital.**
 
 Está mas rico repensar nuestras prácticas, **en un mundo que cada vez se experimenta más a partir de un paralelo que no podemos tocar.**
 
-##### Como herramienta, la imaginación ética nos provee de un catálogo de posibilidades para la mediación y.
+##### Como herramienta, la imaginación ética nos provee de un catálogo de posibilidades para la mediación.
 
 
->En el libro *Future Ethics*, Cennydd Bowles nos recuerda que, para que las personas dejen de caminar al precipicio de los datos, tenemos que agregar interferencia, ruido, Y turbulencia a la experiencia de usuario, en vez de reducirla. 
+>En el libro [*Future Ethics*](https://www.amazon.com.mx/Future-Ethics-Cennydd-Bowles/dp/1999601912), Cennydd Bowles nos recuerda que, para que las personas dejen de caminar al precipicio de los datos, tenemos que agregar interferencia, ruido, y turbulencia a la experiencia de usuario, en vez de reducirla. 
 
-Está sencillo pulsar el botón de aceptar sin haber leído pero, **¿es verdaderamente el mejor camino que podría tomarse?** En un ejercicio de imaginación ética, podríamos darnos cuenta de escenarios en los que poca conciencia sobre la presencia digital puede afectar el interés público.
+Está sencillo pulsar el botón de aceptar sin haber leído pero, **¿es verdaderamente el mejor camino que podría tomarse?** En un ejercicio de imaginación ética, podríamos darnos cuenta de escenarios en los que poca conciencia sobre la presencia digital puede afectar nuestras vidas, y las de otras.
 
 ![Pantalla Whatsapp](/portfolio/work4_files/img.jpg)
 
@@ -45,7 +44,7 @@ Está sencillo pulsar el botón de aceptar sin haber leído pero, **¿es verdade
 
 > ##### La economía de los datos se basa en la confianza. La conversación sobre el uso de nuestros datos tendría que girar en torno a la autodeterminación y el consentimiento.
 
-Tu y yo deberíamos decir cuales datos queremos que sepan, por principio de cuentas; luego, deberíamos estar plenamente informadas de la manera en que estos son utilizados.  **Para mi, como principiante, esta es la más dificil de las cuestiones**. La infraestructura de internet y de las aplicaciones que utilizamos son invisibles por diseño.
+Tu y yo deberíamos decir cuáles datos queremos que sepan, por principio de cuentas; luego, deberíamos estar plenamente informadas de la manera en que estos son utilizados.  **Para mi, como principiante, esta es la más dificil de las cuestiones**. La infraestructura de internet y de las aplicaciones que utilizamos son invisibles por diseño.
 
 >##### ¿Cómo revertimos esto y volvemos la extracción de los datos y su uso un proceso entendible? Se las dejo de tarea. 
 
@@ -55,7 +54,7 @@ Tu y yo deberíamos decir cuales datos queremos que sepan, por principio de cuen
 
 ##### Por favor, ya no nos griten que existe un documento detallado de Condiciones de Uso. 
 
-La ética del diseño de productos tecnológicos implica aceptar que la manera en que se comunica determinará las decisioines de los usuarios. 
+La ética del diseño de productos tecnológicos implica aceptar que la manera en que se comunica con las usuarias tendrá efecto sobre sus decisioines. 
 
 ##### **El documento con el que se quiere dar solución no es una herramienta comunicativa, son documentos legales.** 
 
@@ -69,7 +68,7 @@ Como usuarias, no nos hemos dado cuenta del poder que tiene nuestra información
 
 **Habrá que crear más puentes entre profesionales de la tecnología, la sociedad civil y la iniciativa privada.**
 
-> ##### Tendremos que enseñarle a las niñas cuales son las consecuencias de hacer pública información propia, de sus compañeras de escuela, de sus padres; nos va a tocar colaborar nuevos negocios y empresas que encuentren la privacidad y el respeto por el usuario como una ventaja competitiva; vamos a tener que probar las estrategias de comunicación de las empresas de tecnología en públicos diversos, para asegurarnos que nadie se quede atrás. 
+> ##### Tendremos que enseñarle a las niñas cuales son las consecuencias de hacer pública información propia, de sus compañeras de escuela, de sus padres; nos va a tocar colaborar con nuevos negocios y empresas que encuentren la privacidad y el respeto por el usuario como una ventaja competitiva; vamos a tener que probar las estrategias de comunicación de las empresas de tecnología en públicos diversos, para asegurarnos que nadie se quede atrás. 
 
 Yo me quedo con que este cambio fue tema de plática en la comida, que más personas se interesaron por lo que antes era lejano. Ahora hay que anclarlo a la agenda. Sigamos imaginando para poder materializar.
 
